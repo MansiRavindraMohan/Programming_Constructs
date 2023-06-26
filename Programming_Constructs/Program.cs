@@ -19,8 +19,11 @@ namespace Programming_Constructs
             //VotersAge age = new VotersAge();
             //age.CheckEligibility();
 
-            LargestNumber largestNumber = new LargestNumber();
-            largestNumber.CompareNumber();
+            //LargestNumber largestNumber = new LargestNumber();
+            //largestNumber.CompareNumber();
+
+            WeekDay weekDay = new WeekDay();
+            weekDay.WeekDayNumber();
             Console.ReadLine();
         }
     }
