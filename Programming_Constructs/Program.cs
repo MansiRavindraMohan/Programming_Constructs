@@ -10,8 +10,11 @@ namespace Programming_Constructs
     {
         static void Main(string[] args)
         {
-            EqualNumbers equalNumbers = new EqualNumbers();
-            equalNumbers.CompareNumbers();
+            //EqualNumbers equalNumbers = new EqualNumbers();
+            //equalNumbers.CompareNumbers();
+
+            OddEvenNumber oddEvenNumber = new OddEvenNumber();
+            oddEvenNumber.CheckEvenOddNo();
             Console.ReadLine();
         }
     }
