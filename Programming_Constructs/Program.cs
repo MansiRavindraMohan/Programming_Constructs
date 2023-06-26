@@ -13,8 +13,11 @@ namespace Programming_Constructs
             //EqualNumbers equalNumbers = new EqualNumbers();
             //equalNumbers.CompareNumbers();
 
-            OddEvenNumber oddEvenNumber = new OddEvenNumber();
-            oddEvenNumber.CheckEvenOddNo();
+            //OddEvenNumber oddEvenNumber = new OddEvenNumber();
+            //oddEvenNumber.CheckEvenOddNo();
+
+            VotersAge age = new VotersAge();
+            age.CheckEligibility();
             Console.ReadLine();
         }
     }
