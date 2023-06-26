@@ -22,8 +22,11 @@ namespace Programming_Constructs
             //LargestNumber largestNumber = new LargestNumber();
             //largestNumber.CompareNumber();
 
-            WeekDay weekDay = new WeekDay();
-            weekDay.WeekDayNumber();
+            //WeekDay weekDay = new WeekDay();
+            //weekDay.WeekDayNumber();
+
+            ArithmeticOperation arithmeticOperation = new ArithmeticOperation();
+            arithmeticOperation.Operations();
             Console.ReadLine();
         }
     }
