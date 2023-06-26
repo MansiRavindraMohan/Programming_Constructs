@@ -16,8 +16,11 @@ namespace Programming_Constructs
             //OddEvenNumber oddEvenNumber = new OddEvenNumber();
             //oddEvenNumber.CheckEvenOddNo();
 
-            VotersAge age = new VotersAge();
-            age.CheckEligibility();
+            //VotersAge age = new VotersAge();
+            //age.CheckEligibility();
+
+            LargestNumber largestNumber = new LargestNumber();
+            largestNumber.CompareNumber();
             Console.ReadLine();
         }
     }
