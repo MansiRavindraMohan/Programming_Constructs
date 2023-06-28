@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArithmeticOperation.cs" />
     <Compile Include="EqualNumbers.cs" />
+    <Compile Include="FactorialOfNumber.cs" />
     <Compile Include="LargestNumber.cs" />
     <Compile Include="OddEvenNumber.cs" />
     <Compile Include="PowerTable.cs" />
