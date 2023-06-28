@@ -34,8 +34,11 @@ namespace Programming_Constructs
             //SquareOfNumber squareOfNumber = new SquareOfNumber();
             //squareOfNumber.CheckSquare();
 
-            FactorialOfNumber factorialOfNumber = new FactorialOfNumber();
-            factorialOfNumber.Factorial();            
+            //FactorialOfNumber factorialOfNumber = new FactorialOfNumber();
+            //factorialOfNumber.Factorial();            
+
+            FlipCoin flipCoin = new FlipCoin();
+            flipCoin.FlipCoinMethod();
             Console.ReadLine();
         }
     }
