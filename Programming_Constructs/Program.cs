@@ -25,8 +25,11 @@ namespace Programming_Constructs
             //WeekDay weekDay = new WeekDay();
             //weekDay.WeekDayNumber();
 
-            ArithmeticOperation arithmeticOperation = new ArithmeticOperation();
-            arithmeticOperation.Operations();
+            //ArithmeticOperation arithmeticOperation = new ArithmeticOperation();
+            //arithmeticOperation.Operations();
+
+            PowerTable powerTable = new PowerTable();
+            powerTable.TableOfTwo();
             Console.ReadLine();
         }
     }
