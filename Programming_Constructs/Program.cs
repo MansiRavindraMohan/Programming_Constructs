@@ -37,8 +37,11 @@ namespace Programming_Constructs
             //FactorialOfNumber factorialOfNumber = new FactorialOfNumber();
             //factorialOfNumber.Factorial();            
 
-            FlipCoin flipCoin = new FlipCoin();
-            flipCoin.FlipCoinMethod();
+            //FlipCoin flipCoin = new FlipCoin();
+            //flipCoin.FlipCoinMethod();
+
+            ReverseString reverseString = new ReverseString();
+            reverseString.ReverseStringMethod();
             Console.ReadLine();
         }
     }
