@@ -28,8 +28,11 @@ namespace Programming_Constructs
             //ArithmeticOperation arithmeticOperation = new ArithmeticOperation();
             //arithmeticOperation.Operations();
 
-            PowerTable powerTable = new PowerTable();
-            powerTable.TableOfTwo();
+            //PowerTable powerTable = new PowerTable();
+            //powerTable.TableOfTwo();
+
+            SquareOfNumber squareOfNumber = new SquareOfNumber();
+            squareOfNumber.CheckSquare();
             Console.ReadLine();
         }
     }
