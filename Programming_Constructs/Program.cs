@@ -40,8 +40,11 @@ namespace Programming_Constructs
             //FlipCoin flipCoin = new FlipCoin();
             //flipCoin.FlipCoinMethod();
 
-            ReverseString reverseString = new ReverseString();
-            reverseString.ReverseStringMethod();
+            //ReverseString reverseString = new ReverseString();
+            //reverseString.ReverseStringMethod();
+
+            NaturalNoSum naturalNoSum = new NaturalNoSum();
+            naturalNoSum.MethodOfSum();
             Console.ReadLine();
         }
     }

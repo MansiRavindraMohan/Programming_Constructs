@@ -48,6 +48,7 @@
     <Compile Include="FactorialOfNumber.cs" />
     <Compile Include="FlipCoin.cs" />
     <Compile Include="LargestNumber.cs" />
+    <Compile Include="NaturalNoSum.cs" />
     <Compile Include="OddEvenNumber.cs" />
     <Compile Include="PowerTable.cs" />
     <Compile Include="Program.cs" />
